@@ -1,4 +1,5 @@
-# precious-kids-preschool
+# Precious Kids Preschool Boostrap Theme
+
 Precious Kids Preschool is a Bootstrap Website Template for preschools.
 
 Technology<br/>
